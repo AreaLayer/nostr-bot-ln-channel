@@ -1,4 +1,4 @@
-# Nostr bot LN Channel ⚡🟣
+# Nostr bot LN Channel ⚡🟣:robot:
 
 A bot Nostr for Node Runners 
 
