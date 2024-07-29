@@ -1,4 +1,3 @@
-pythonnostr == 0.0.2
-
-lndgrpc == 0.4.0
+python-nostr == 0.0.2
+lnd-grpc == 0.4.0
 
