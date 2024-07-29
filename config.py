@@ -1,4 +1,3 @@
-# config.py
 LND_GRPC_HOST = 'localhost:10009'
 LND_MACAROON_PATH = 'path/to/macaroon'
 LND_TLS_CERT_PATH = 'path/to/tls.cert'
