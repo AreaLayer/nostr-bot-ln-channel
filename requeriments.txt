@@ -1,4 +1,4 @@
-python nostr == 0.0.2
+pythonnostr == 0.0.2
 
-lnd grpc == 0.4.0
+lndgrpc == 0.4.0
 
