@@ -11,5 +11,5 @@ A bot Nostr for Node Runners
 ## Roadmap 
 
 - [x] Docs
-- [ ] Py project
+- [x] Py project
 - [ ] Open source 
