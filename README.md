@@ -10,6 +10,6 @@ A bot Nostr for Node Runners
   
 ## Roadmap 
 
-- [ ] Docs
+- [x] Docs
 - [ ] Py project
 - [ ] Open source 
