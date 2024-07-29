@@ -14,6 +14,7 @@ def recommend_channels():
     # Example recommendation logic
     recommended = []
     for channel in channels.channels:
-        if channel.remote_balance > 1000000:  # Example criterion
+     if channel.remote_balance > 1000000:
+        if channel.local_balance > 1000000:
             recommended.append(channel)
     return recommended

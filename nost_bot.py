@@ -14,7 +14,8 @@ relay_manager.run_in_thread()
 def handle_nostr_event(event):
     if event.kind == EventKind.TEXT_NOTE and 'recommend channels' in event.content:
         # Placeholder for channel recommendation logic
-        recommendations = "Channel recommendations here"
+        recommendations = 'Recommended channels: #channel1, #channel2, #channel3'
+
         response_event = Event(kind=EventKind.TEXT_NOTE, content=recommendations)
         response_event.sign(private_key.hex())
         relay_manager.publish(response_event)

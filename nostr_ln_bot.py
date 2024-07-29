@@ -24,8 +24,10 @@ def recommend_channels():
     channels = lnd.list_channels()
     recommended = []
     for channel in channels.channels:
-        if channel.remote_balance > 1000000:  # Example criterion
-            recommended.append(channel)
+        if channel.capacity > 1000000:
+         if channel.local_balance > 1000000:
+            if channel.remote_balance > 1000000: 
+             recommended.append(channel)
     return recommended
 
 def handle_nostr_event(event):
