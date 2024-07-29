@@ -164,4 +164,3 @@ python nostr_ln_bot.py
 - Implement proper error handling and reconnection logic.
 - Regularly update your bot to keep up with changes in the Nostr protocol and LN implementations.
 
-By following these steps, users and developers can set up and run a bot that listens for Nostr events, interacts with the Lightning Network, and provides LN channel recommendations.
