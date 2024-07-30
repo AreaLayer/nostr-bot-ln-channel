@@ -158,9 +158,23 @@ python nostr_ln_bot.py
 - **LN Node Connection Issues**: Ensure your LN node is running and accessible. Check the host, macaroon, and TLS cert paths in `config.py`.
 - **Nostr Relay Connection Issues**: Ensure the Nostr relay URLs are correct and the relays are up and running.
 
-### Security Considerations
+## Install with setup
 
-- Store private keys and macaroons securely.
-- Implement proper error handling and reconnection logic.
-- Regularly update your bot to keep up with changes in the Nostr protocol and LN implementations.
+### Installation
 
+With your `setup.py` file ready, you can now build and install your package.
+
+1. **Build the package**:
+    ```bash
+    python setup.py sdist bdist_wheel
+    ```
+
+2. **Install the package**:
+    ```bash
+    pip install .
+    ```
+
+3. **Run your bot**:
+    ```bash
+    nostr_ln_bot
+    ```
