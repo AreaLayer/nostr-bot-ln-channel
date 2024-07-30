@@ -24,5 +24,5 @@
 
 - [x] Docs
 - [x] Py project
-- [ ] Open source 
+- [x] Open source 
 - [x] Local tests compiling, running and debugging
