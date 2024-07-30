@@ -18,8 +18,7 @@
 
 - Run your Lightning Node stable (LND)
 - Choose Relays stable
-- Self-custody keys
-- The project doesn't hold private keys from external users
+- Self-custody keys (Nostr and Lightning Node)
   
 ### Roadmap 
 
