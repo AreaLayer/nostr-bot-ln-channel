@@ -8,6 +8,8 @@ def recommend_channels(channels):
                 if channel.outbound_capacity > 1000000:
                     if channel.local_balance > channel.remote_balance:
                         if channel.outbound_capacity > channel.inbound_capacity:
-                            recommended.append(channel)
+                          if channel.local_balance / channel.remote_balance > 0.5:
+                            if channel.local_balance / channel.remote_balance < 2:
+                             recommended.append(channel)
 
 return recommended

@@ -16,5 +16,7 @@ def recommend_channels():
     for channel in channels.channels:
      if channel.remote_balance > 1000000:
         if channel.local_balance > 1000000:
+         if channel.local_balance / channel.remote_balance > 0.5:
+          if channel.local_balance / channel.remote_balance < 2:
             recommended.append(channel)
     return recommended
