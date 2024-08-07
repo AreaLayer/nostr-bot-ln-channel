@@ -26,3 +26,6 @@
 - [x] Py project
 - [x] Open source 
 - [x] Local tests compiling, running and debugging
+- [ ] Docker support
+- [ ] Add more info to the Bot
+- [ ] APIs
