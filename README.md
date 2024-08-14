@@ -29,3 +29,4 @@
 - [ ] Docker support
 - [ ] Add more info to the Bot
 - [ ] APIs
+- [ ] LDK & CLN support
