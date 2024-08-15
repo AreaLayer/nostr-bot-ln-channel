@@ -31,6 +31,7 @@
 - [x] Open source 
 - [x] Local tests compiling, running and debugging
 - [ ] Docker support
-- [ ] Add more info to the Bot
+- [x] Add more info to the Bot
 - [ ] APIs
 - [ ] LDK & CLN support
+- [ ] DVMs
