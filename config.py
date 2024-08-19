@@ -4,6 +4,7 @@ LND_TLS_CERT_PATH = 'path/to/tls.cert'
 
 NOSTR_RELAYS = [
     'wss://relay.damus.io',
+    'wss://relay.snort.social',
 ]
 
 PRIVATE_KEY_HEX = 'your_nostr_private_key'
