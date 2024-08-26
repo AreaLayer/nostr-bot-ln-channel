@@ -1,5 +1,6 @@
 # nostr_ln_bot.py
 from nostr import PrivateKey, SimpleRelayManager, Event, EventKind
+from dvms import Nostr
 from lndgrpc import LNDClient
 from config import NOSTR_RELAYS, PRIVATE_KEY_HEX, LND_GRPC_HOST, LND_MACAROON_PATH, LND_TLS_CERT_PATH
 def main():
