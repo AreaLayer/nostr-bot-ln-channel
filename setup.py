@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nostr_ln_bot",
-    version="1.0.0-beta",
+    version="1.0.1-beta",
     description="Nostr bot for Lightning Network channel recommendations",
     author=["22388o", "Rsync25"],
     url="https://github.com/AreaLayer/nostr-ln-bot-channel",
