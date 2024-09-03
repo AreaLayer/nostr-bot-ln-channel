@@ -1,4 +1,5 @@
 from nostr import PrivateKey, SimpleRelayManager, Event, EventKind
+from dvms import nostr
 from config import NOSTR_RELAYS, PRIVATE_KEY_HEX
 
 # Generate keys
