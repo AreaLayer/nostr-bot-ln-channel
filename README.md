@@ -35,3 +35,4 @@
 - [ ] APIs
 - [ ] LDK & CLN support
 - [ ] DVMs
+- [ ] CLN plugin
