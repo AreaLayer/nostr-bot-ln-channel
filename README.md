@@ -34,5 +34,5 @@
 - [x] Add more info to the Bot
 - [ ] APIs
 - [ ] LDK & CLN support
-- [ ] DVMs
-- [ ] CLN plugin
+- [x] DVMs [WIP]
+- [x] CLN plugin [WIP]
