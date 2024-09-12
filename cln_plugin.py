@@ -5,7 +5,6 @@ import time
 plugin = Plugin()
 
 
-@plugin.method("hello")
 def hello(plugin, name="world"):
     """This is the documentation string for the hello-function.
 
@@ -19,7 +18,6 @@ def hello(plugin, name="world"):
     return s
 
 
-@plugin.method("bye")
 def bye(plugin, name, **kwargs):
     """This method requires {name} to be set by the caller !"""
     return "Bye {}".format(name)
