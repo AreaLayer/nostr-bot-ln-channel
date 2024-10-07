@@ -26,11 +26,6 @@
   
 ### Roadmap 
 
-- [x] Docs
-- [x] Py project
-- [x] Open source 
-- [x] Local tests compiling, running and debugging
-- [x] Add more info to the Bot
 - [ ] APIs
 - [ ] LDK & CLN support
 - [x] DVMs [WIP]
