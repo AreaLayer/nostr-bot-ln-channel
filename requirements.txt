@@ -1,3 +1,3 @@
 nostr == 0.0.2
 lnd-grpc == 0.4.0
-nostr-dvm ==0.9.6
+nostr-dvm ==0.9.7
