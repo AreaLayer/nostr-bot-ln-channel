@@ -80,3 +80,9 @@ class AISystem:
 if __name__ == "__main__":
     ai_system = AISystem()
     ai_system.run_agents()
+
+# Run the AI tests
+if __name__ == "__main__":
+    ai_system = AISystem()
+    ai_system.run_agents()
+    
