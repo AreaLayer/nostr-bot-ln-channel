@@ -27,6 +27,6 @@
 ### Roadmap 
 
 - [ ] APIs
-- [ ] LDK
-- [x] DVMs [WIP]
+- [x] LDK (WIP)
+- [x] DVMs (WIP)
 - [x] CLN plugin 
