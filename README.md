@@ -29,4 +29,5 @@
 - [ ] APIs
 - [x] LDK (WIP)
 - [x] DVMs (WIP)
-- [x] CLN plugin 
+- [x] CLN plugin
+- [ ] Out of beta
