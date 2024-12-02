@@ -30,4 +30,4 @@
 - [x] LDK (WIP)
 - [x] DVMs (WIP)
 - [x] CLN plugin
-- [ ] Out of beta
+- [ ] Out of beta in 2025
