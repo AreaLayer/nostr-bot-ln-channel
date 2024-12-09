@@ -29,5 +29,4 @@
 - [ ] APIs
 - [x] LDK (WIP)
 - [x] DVMs (WIP)
-- [x] CLN plugin
 - [ ] Out of beta in 2025
