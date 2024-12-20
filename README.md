@@ -20,13 +20,16 @@
 
 ### Securtiy considerations
 
-- Run your Lightning Node stable (LND)
+- Run your Lightning Node stable and secure
+- Use a secure and reliable Nostr relay
 - Choose Relays stable
 - Self-custody keys (Nostr and Lightning Node)
+- Currently Lightning Node supported: LND, Core Lightning
   
 ### Roadmap 
 
 - [ ] APIs
 - [x] LDK (WIP)
 - [x] DVMs (WIP)
+- [ ] Eclair
 - [ ] Out of beta in 2025
