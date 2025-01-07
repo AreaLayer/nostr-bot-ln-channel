@@ -24,7 +24,7 @@
 - Use a secure and reliable Nostr relay
 - Choose Relays stable
 - Self-custody keys (Nostr and Lightning Node)
-- Currently Lightning Node supported: LND, Core Lightning
+- Currently Lightning Node supported: LND, Core Lightning (CLN)
   
 ### Roadmap 
 
