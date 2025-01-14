@@ -19,3 +19,7 @@ def send_transaction(peer):
 # Receive transactions
 def receive_transaction(peer):
     pass
+
+# Receive channels
+def receive_channel(peer):
+    pass
