@@ -1,5 +1,6 @@
 import ldk
 import channel
+import nost_bot
 
 # Connect peers
 def connect(peer):
