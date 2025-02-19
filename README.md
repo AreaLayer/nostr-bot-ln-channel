@@ -29,7 +29,6 @@
 ### Roadmap 
 
 - [ ] APIs
-- [x] LDK 
 - [x] DVMs (WIP)
 - [ ] Eclair
 - [ ] Out of beta in 2025
