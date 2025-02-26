@@ -10,7 +10,7 @@
 
 ⚠️**WIP & Beta**
 
-⚠️**Only support LND**
+⚠️**Only support LND and Core Lightning**
 
 ### How works 
 
