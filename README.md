@@ -32,3 +32,4 @@
 - [x] DVMs (WIP)
 - [ ] Eclair
 - [ ] Out of beta in 2025
+- [ ] Nostr Bot version
