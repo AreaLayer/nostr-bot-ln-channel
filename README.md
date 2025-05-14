@@ -29,6 +29,7 @@
 ### Roadmap 
 
 - [ ] APIs
+- [x] CLI
 - [x] DVMs (WIP)
 - [ ] Eclair
 - [ ] Nostr Bot beta version
